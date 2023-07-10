@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "201887631019",
+    "project_id": "fotohub-e2e59",
+    "storage_bucket": "fotohub-e2e59.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:201887631019:android:b7475fe5b7d22c9395d9ee",
+        "android_client_info": {
+          "package_name": "com.example.fotohub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "201887631019-kn7tug58pdu414kqska9kqf5jh58bhfe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAs1drrw9arEIR-4IVuDNhG-YTe0gQlIQg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "201887631019-kn7tug58pdu414kqska9kqf5jh58bhfe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

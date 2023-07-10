@@ -1,6 +1,6 @@
 Features:
 
-  * Responsive Instagram UI
+  * Responsive UI
   
   * Email & Password Authentication
   
